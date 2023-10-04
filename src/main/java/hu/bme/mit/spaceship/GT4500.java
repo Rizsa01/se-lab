@@ -19,7 +19,7 @@ public class GT4500 implements SpaceShip {
     // TODO not implemented yet
     return false;
   }
-
+ // alma
   /**
   * Tries to fire the torpedo stores of the ship.
   *
